@@ -1,2 +1,3 @@
-# api_test
-ct 
+# Запуск
+- npm install
+- node test.js
